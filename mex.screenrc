@@ -1,0 +1,4 @@
+msgwait 0
+msgminwait 0
+sessionname iex
+screen -t iex 0 bash -c 'cd ~/projects/mex && iex -S mix'
