@@ -15,7 +15,7 @@ Usage
 
 * Start screen session with -c mex.screenrc
 * Select code in vim (visual)
-* <C-c><C-e>
+* C-c, C-e
 
 Demo
 ----
