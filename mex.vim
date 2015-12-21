@@ -12,4 +12,4 @@ function! ExpandElixirMacro() range
   let @n = n
   normal! gv
 endfunction
-map <C-c><C-e> :call ExpandElixirMacro()<CR>
+map <C-c><C-e> :call ExpandElixirMacro()<cr>
